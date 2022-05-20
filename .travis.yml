@@ -10,5 +10,5 @@ jobs:
   include:
     - stage: Demo-ifc
       script:
-        - docker build -t demo-ifc .
+        - docker build -t vcity/demo-ifc .
 
