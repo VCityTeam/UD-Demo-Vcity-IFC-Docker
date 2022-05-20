@@ -1,7 +1,7 @@
 # Demo Ifc
 
-Create a docker of the [demo of ](https://github.com/VCityTeam/UD-Demo-Vcity-Ifc).  
-<!-- _See the [online version](https://py3dtilers-demo.vcityliris.data.alpha.grandlyon.com/)_. -->
+Create a docker of the [Demo Ifc](https://github.com/VCityTeam/UD-Demo-Vcity-Ifc).  
+_See the [online version](https://chaufferie_doua.vcityliris.data.alpha.grandlyon.com/)_.
 
 The demo uses a [SimpleServer](https://github.com/VCityTeam/UD-SimpleServer), based on [ExpressJS](https://en.wikipedia.org/wiki/Express.js) web-server.
 
