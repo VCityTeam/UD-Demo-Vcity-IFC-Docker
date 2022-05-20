@@ -28,4 +28,4 @@ WORKDIR /UD-SimpleServer
 RUN npm install
 
 EXPOSE 80
-CMD [ "node", "./index.js", "/UD-Demo-vcity-py3dtilers-lyon", "80" ]
+CMD [ "node", "./index.js", "/UD-Demo-Vcity-IFC", "80" ]
